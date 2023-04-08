@@ -21,7 +21,7 @@
 
 </li>
 </ul>
-<h2 align="left">Statistics 🧐</h2>
+
 <h2 align="left">Main Languages 👨🏻‍💻</h2>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/256f498d9e3128b19f8cb5558884749179db9118aaa6e31d3f7c5da34edf5c8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332532302d2532333233393132302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/256f498d9e3128b19f8cb5558884749179db9118aaa6e31d3f7c5da34edf5c8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332532302d2532333233393132302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" alt="" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7858f416aa93ee56048ca2eb473bdde10002398fc4ff05e08faf6cb3cbb5bce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612532302d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7858f416aa93ee56048ca2eb473bdde10002398fc4ff05e08faf6cb3cbb5bce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612532302d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="" style="max-width: 100%;"></a></p>
 
@@ -30,7 +30,7 @@
 <li>I'm learning <strong>C++</strong>, <strong>Python</strong></li>
 <li>To contact me: <strong>Nerek#0155</strong></li>
 </ul>
-
+<h2 align="left">Statistics 🧐</h2>
 <br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nerek23&show_icons=true&theme=dark" alt="nerek23's GitHub stats">
