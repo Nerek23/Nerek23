@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Nerek! Junior Developer</h1>
+<h1 align="left">Hi, I'm Nerek! Junior Developer</h1>
 <p align="left">I was born in 2002 and right now I'm living in Barcelona, Spain</p>
 
 <h2 align="left">Official Education 👨🏻‍🎓</h2>
