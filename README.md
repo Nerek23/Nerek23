@@ -28,7 +28,7 @@
 <h2 align="left">Other Languages & Info</h2>
 <ul dir="auto">
 <li>I'm learning <strong>C++</strong>, <strong>Python</strong></li>
-<li>To contact me: <strong>Nerek#0155</strong></li>
+<li>To contact me: <strong>Nerek#6666</strong></li>
 </ul>
 <h2 align="left">Statistics 🧐</h2>
 <br>
