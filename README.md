@@ -36,7 +36,7 @@ Here are the programming languages, frameworks, and tools that I am proficient i
 <table style="border-collapse: collapse;">
   <tr>
         <td align="right" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nerek23&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="nerek23's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Nerek23&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true">
     </td>
     <td align="left" style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerek23&theme=dark&hide_border=true" alt="nerek23's GitHub streak stats">
