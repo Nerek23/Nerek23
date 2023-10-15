@@ -1,6 +1,6 @@
 # Hi, I'm Nerek!👋
 
-I'm a junior developer based in Barcelona, Spain. I'm passionate about programming and learning new technologies.
+I'm a developer based in Barcelona, Spain. I'm passionate about programming and learning new technologies.
 
 ## Education 🎓
 
