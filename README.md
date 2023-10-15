@@ -1,4 +1,4 @@
-# Hi, I'm Nerek! Junior Developer 👋
+# Hi, I'm Nerek!👋
 
 I'm a junior developer based in Barcelona, Spain. I'm passionate about programming and learning new technologies.
 
