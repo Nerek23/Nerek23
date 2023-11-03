@@ -12,7 +12,7 @@ I'm a developer based in Barcelona, Spain. I'm passionate about programming and 
 
 Here are the programming languages, frameworks, and tools that I am proficient in:
  
- **Languages**: C, C++, Python, JavaScript, TypeScript, C#
+ **Languages**: C, C++, C#, Python, JavaScript, TypeScript, Lua, SQL, Kotlin 
  <br>
  **Frameworks**: React, Node.js, .NET
  <br>
