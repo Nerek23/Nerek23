@@ -4,10 +4,9 @@ I'm a developer based in Barcelona, Spain. I'm passionate about programming and 
 
 ## Education 🎓
 
-**2021-2023** | C.F.G.S Multiplatform Programming and Video Games. Barcelona
-<br>
 **2019-2021** | C.F.G.M. Microcomputer Systems and Networks. Barcelona
-
+<br>
+**2021-2023** | C.F.G.S Multiplatform Programming and Video Games. Barcelona
 ## Skills and Expertise 👨🏻‍💻
 
 Here are the programming languages, frameworks, and tools that I am proficient in:
